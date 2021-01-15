@@ -1,6 +1,7 @@
 # slides
 
-* [01-Intro](https://docs.google.com/presentation/d/1dLMbeMywxH6Vkzk10RMVhcN427vLnGTNXGXRoKuIm4k/edit?usp=sharing)
+* [00-Intro](https://docs.google.com/presentation/d/1dLMbeMywxH6Vkzk10RMVhcN427vLnGTNXGXRoKuIm4k/edit?usp=sharing)
+* [01-Semester Tools](https://docs.google.com/presentation/d/14Sb-aqqYM42CogPD8ddkzkwpy8U5cBFq4emEg5RrUsc/edit?usp=sharing)
 * [02-Architecture](https://docs.google.com/presentation/d/1c11OhItiG94Hj601kqGeHY-xNlPm9Dck9UHq0XCzG0k/edit?usp=sharingf)
 * [03-Resources, Layouts, and Activities](https://docs.google.com/presentation/d/1evxe3PGgOp8IB06WF9NouYGd3vePJvSLyK6USIvLtnE/edit?usp=sharing)
 * [04-Events,Intents, and Saving State](https://docs.google.com/presentation/d/1vazGd_t-ha5t4V7aBwzsdL1hxZYbbIANE6Z_uA15f78/edit?usp=sharing)
